@@ -80,12 +80,11 @@ Daily hours logged: 3.5
 - Ruby: 2.5 hour(s)
 	- Example 42 review ["Learn Ruby The Hard Way" by Zed Shaw](http://www.learnrubythehardway.org/book "LRTHW Book")
 		- Practiced creating classes
+		- Modified "oop_test.rb"
 		- Circled back on modules to tinker around
 
 ### SMALL VICTORY!
 Figured out how to use a module to capture and store a player name to be used in my Ruby game
-
-	- Modified "oop_test.rb"
 	
 Note: 
 
