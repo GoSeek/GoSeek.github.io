@@ -50,6 +50,7 @@ Daily hours logged: 4
 		- "map"
 		reading from various sites, blogs, and documentation.
 	- [Regular Expressions](https://www.blueboxcloud.com/insight/blog-article/using-regular-expressions-in-ruby-part-1-of-3 "REGEX by Nell Shamrell") explained by Nell Shamrell
+	
 Note: I highly recommend reading the RegEx article above. It's clearly written introduction and easy to understand.
 
 ## 12 MAY 2015
@@ -57,10 +58,10 @@ Daily hours logged: 3
 
 - Rails: 1 hour(s)
 	- Finished Chapter 12 of ["The Ruby on Rails Tutorial" by Michael Hartl](http://www.railstutorial.org "Ruby On Rails Tutorial")
-		### SMALL VICTORY! 
-		Total time start to finish: 6 weeks
-		Bugs: 1, something is broken in the user index.
-		I will circle back and complete this a second time when I have more experience
+### SMALL VICTORY! 
+Total time start to finish: 6 weeks
+Bugs: 1, something is broken in the user index.
+I will circle back and complete this a second time when I have more experience
 	
 - Ruby: 2 hour(s)
 	- More on ["Regular Expressions"](http://www.regular-expressions.info/ruby.html "RegEx Info")
@@ -78,8 +79,8 @@ Daily hours logged: 3.5
 	- Example 42 review ["Learn Ruby The Hard Way" by Zed Shaw](http://www.learnrubythehardway.org/book "LRTHW Book")
 		- Practiced creating classes
 		- Circled back on modules to tinker around
-		### SMALL VICTORY!
-		Figured out how to use a module to capture and store a player name to be used in my Ruby game
+### SMALL VICTORY!
+Figured out how to use a module to capture and store a player name to be used in my Ruby game
 		- Modified "oop_test.rb"
 	
 Note: 
@@ -102,9 +103,9 @@ Daily hours logged: 3
 		- "gsub"
 		- "gsub!"
 		- Where do things "return" exactly? Another function? Console window? Both?
-	### SMALL VICTORY!
-	Learned how to do a line continuation in terminal
-	( "\" minus the quotation marks at the end of a line)
+### SMALL VICTORY!
+Learned how to do a line continuation in terminal
+( "\" minus the quotation marks at the end of a line)
 		
 		
 Note: `return` exits a function conditionally
