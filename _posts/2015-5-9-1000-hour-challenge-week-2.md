@@ -58,6 +58,7 @@ Daily hours logged: 3
 
 - Rails: 1 hour(s)
 	- Finished Chapter 12 of ["The Ruby on Rails Tutorial" by Michael Hartl](http://www.railstutorial.org "Ruby On Rails Tutorial")
+	
 ### SMALL VICTORY! 
 Total time start to finish: 6 weeks
 Bugs: 1, something is broken in the user index.
@@ -79,6 +80,7 @@ Daily hours logged: 3.5
 	- Example 42 review ["Learn Ruby The Hard Way" by Zed Shaw](http://www.learnrubythehardway.org/book "LRTHW Book")
 		- Practiced creating classes
 		- Circled back on modules to tinker around
+
 ### SMALL VICTORY!
 Figured out how to use a module to capture and store a player name to be used in my Ruby game
 		- Modified "oop_test.rb"
@@ -103,6 +105,7 @@ Daily hours logged: 3
 		- "gsub"
 		- "gsub!"
 		- Where do things "return" exactly? Another function? Console window? Both?
+
 ### SMALL VICTORY!
 Learned how to do a line continuation in terminal
 ( "\" minus the quotation marks at the end of a line)
