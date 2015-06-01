@@ -39,8 +39,9 @@ Daily hours logged: 4
 
 - Rails: 2 hour(s)
 	- Work on: Chapter 12 of ["The Ruby on Rails Tutorial" by Michael Hartl](http://www.railstutorial.org "Ruby On Rails Tutorial")
-	I completed roughly half of Chapter 12 in this time. For some reason, though Michael says this
-	is the hardest chapter, I found it quite easy to follow along with.
+	
+I completed roughly half of Chapter 12 in this time. For some reason, though Michael says this
+is the hardest chapter, I found it quite easy to follow along with.
 	
 - Ruby: 2.5 hour(s)
 	- Googled:
