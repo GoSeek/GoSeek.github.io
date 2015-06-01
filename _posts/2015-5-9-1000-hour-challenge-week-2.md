@@ -61,7 +61,7 @@ Daily hours logged: 3
 	- Finished Chapter 12 of ["The Ruby on Rails Tutorial" by Michael Hartl](http://www.railstutorial.org "Ruby On Rails Tutorial")
 	
 ### SMALL VICTORY! 
-Total time start to finish: 6 weeks
+Total time start to finish: 6 weeks.
 Bugs: 1, something is broken in the user index.
 I will circle back and complete this a second time when I have more experience
 	
