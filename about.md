@@ -1,15 +1,5 @@
----
-layout: page
-title: About
-permalink: /about/
----
+I study seven days a week for at least one dedicated hour. The hours logged here
+only reflect hours spent specifically studying Ruby/Rails. 
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Hours spent learning Javascript, jQuery,
+HTML, and CSS are logged but excluded from this blog.
