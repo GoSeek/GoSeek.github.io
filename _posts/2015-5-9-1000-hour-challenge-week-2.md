@@ -84,7 +84,8 @@ Daily hours logged: 3.5
 
 ### SMALL VICTORY!
 Figured out how to use a module to capture and store a player name to be used in my Ruby game
-		- Modified "oop_test.rb"
+
+	- Modified "oop_test.rb"
 	
 Note: 
 
