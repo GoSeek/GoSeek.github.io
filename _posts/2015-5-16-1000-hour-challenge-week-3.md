@@ -72,16 +72,16 @@ Daily hours logged: 4
 		- Follow functions around/classes around the script
 		- "Trace it out" on the screen
 		- Add one new functionality to Odessa Ruby game
-
-### SMALL VICTORY!
-Figured out how to use a module to capture and store a player name to be used in my Ruby game
-
 	- Studied:
 		- More on `exit` codes
 		- More on classes
 			- [Classes in Ruby at RubyLearning](http://rubylearning.com/satishtalim/writing_our_own_class_in_ruby.html "Ruby Classes")
 		- Select method
 			- [Enumerable methods in Ruby](http://www.eriktrautman.com/posts/ruby-explained-map-select-and-other-enumerable-methods "Enumerable methods")
+
+### SMALL VICTORY!
+Figured out how to use a module to capture and store a player name to be used in my Ruby game
+
 	
 Note: 
 
