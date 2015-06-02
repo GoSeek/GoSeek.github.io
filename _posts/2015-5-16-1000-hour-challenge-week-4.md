@@ -102,15 +102,16 @@ Daily hours logged: 4
 			- Blinking string method
 			- Timed string output
 	- Studied:
-			- `inject`
-			- `:+`
-				- This just refrences the `+` symbol, so you could also do something like `:*` for multiplication
-			- [Ruby Bastards Recursion](http://ruby.bastardsbook.com/chapters/recursion/ "Ruby Bastards Recursion") again (still ???)
-			- Studied Ruby game scripts for Rock Paper Scissors
-			- Looked up OOP resources
-			- Began learning databases specifically for my Ruby programs:
-				- [SQLite3 Tutorial series at ZetCode](http://zetcode.com/db/sqliteruby/connect/ "SQLite3 at ZetCode")
-					- I studied this resource for 1 hour by itself
+		- `inject`
+		- `:+`
+			- This just refrences the `+` symbol, so you could also do something like `:*` for multiplication
+		- [Ruby Bastards Recursion](http://ruby.bastardsbook.com/chapters/recursion/ "Ruby Bastards Recursion") again (still ???)
+		- Studied Ruby game scripts for Rock Paper Scissors
+		- Looked up OOP resources
+		- Began learning databases specifically for my Ruby programs:
+			- [SQLite3 Tutorial series at ZetCode](http://zetcode.com/db/sqliteruby/connect/ "SQLite3 at ZetCode")
+				- I studied this resource for 1 hour by itself
+
 ### SMALL VICTORY!
 
 Successfully built a working scoreboard!
