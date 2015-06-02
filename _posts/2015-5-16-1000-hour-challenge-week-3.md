@@ -72,6 +72,7 @@ Daily hours logged: 4
 		- Follow functions around/classes around the script
 		- "Trace it out" on the screen
 		- Add one new functionality to Odessa Ruby game
+
 ### SMALL VICTORY!
 Figured out how to use a module to capture and store a player name to be used in my Ruby game
 
