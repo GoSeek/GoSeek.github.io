@@ -2,7 +2,6 @@
 layout: post
 title: 1,000 Hour Challenge: Week 1
 ---
-
 ### 16.5/1,000 Total Hours Completed
 
 ## 2 MAY 2015
