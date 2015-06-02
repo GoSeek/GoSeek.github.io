@@ -13,19 +13,16 @@ Daily hours logged: 3.5
 	
 - Ruby: 2.5 hour(s)
 	- Study Ruby symbols:
-[Troubleshooters Symbols](http://www.troubleshooters.com/codecorn/ruby/symbols.htm "Troubleshooters Symbols")
-
-[Ruby Docs - Symbols](http://ruby-doc.org/core-2.2.0/Symbol.html "Ruby Docs - Symbols")
-
-[RubyLearning](http://rubylearning.com/satishtalim/ruby_symbols.html "RubyLearning Symbols")
-
+		- [Troubleshooters Symbols](http://www.troubleshooters.com/codecorn/ruby/symbols.htm "Troubleshooters Symbols")
+		- [Ruby Docs - Symbols](http://ruby-doc.org/core-2.2.0/Symbol.html "Ruby Docs - Symbols")
+		- [RubyLearning](http://rubylearning.com/satishtalim/ruby_symbols.html "RubyLearning Symbols")
 	- Play with nested ternary operators
+	- Read about case statements
+		- [Skorks - Case Statements](http://www.skorks.com/2009/08/how-a-ruby-case-statement-works-and-what-you-can-do-with-it/ "Skorks Case Statements")
+	
 Example: 
 
 `cond1 ? stmt1 : (cond2 ? stmt2 : (cond3 ? stmt3 : stmt4)))`
-
-	- Read about case statements
-[Skorks - Case Statements](http://www.skorks.com/2009/08/how-a-ruby-case-statement-works-and-what-you-can-do-with-it/ "Skorks Case Statements")
 	
 Note: 
 
