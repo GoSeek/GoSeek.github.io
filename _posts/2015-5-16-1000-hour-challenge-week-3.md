@@ -122,7 +122,7 @@ Daily hours logged: 4
 			- [Ruby Bastards Loops](http://ruby.bastardsbook.com/chapters/loops/ "Ruby Bastards on Loops")
 			- [Erik Trautman on Strings](http://www.eriktrautman.com/posts/ruby-explained-strings "Erik Trautman on Strings")
 			- Research more on modules:
-				- [Pragmatic Bookshelf Modules](http://ruby-doc.com/docs/ProgrammingRuby/html/tut_modules.html "Pragmatic Programmers on Modules")
+				- [Pragmatic Bookshelf Modules](http://ruby-doc.com/docs/ProgrammingRuby/html/tut_modules.html "Pragmatic Programmers on Modules"
 
 Note:
 
