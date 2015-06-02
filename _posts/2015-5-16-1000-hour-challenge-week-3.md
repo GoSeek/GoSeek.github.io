@@ -20,7 +20,7 @@ Daily hours logged: 3.5
 	- Read about case statements
 		- [Skorks - Case Statements](http://www.skorks.com/2009/08/how-a-ruby-case-statement-works-and-what-you-can-do-with-it/ "Skorks Case Statements")
 	
-Example: 
+Nested ternary operator example: 
 
 `cond1 ? stmt1 : (cond2 ? stmt2 : (cond3 ? stmt3 : stmt4)))`
 	
