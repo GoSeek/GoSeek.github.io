@@ -1,0 +1,61 @@
+<html>
+	<head> About Ring.pop
+	</head>
+		<title>About Ring.pop</title>
+<body>
+
+<h3>I am a Photoshop forum kid of the early 2000's.</h3>
+<br><br>
+<h2>Do you remember?</h2>
+<ul>
+	<li>Somethingleet.com</li>
+	<li>2advanced.com</li>
+	<li>Spoono.com</li>
+	<li>Yaxay.com</li>
+	<li>Bluesfear.com</li>
+</ul>
+<p>
+	I have no programming experience. I am an artistic person, and have several years of experience creating graphics in 
+	Photoshop. I won’t claim to be a “Graphic Designer”, but to lead you to believe that I had not designed graphics would 
+	be a lie. Over the years, I made made a few friends on Photoshop forums that later became professional developers and 
+	designers. Because of that, I already had a solid understanding of the lingo and basic work flow of web development before 
+	starting this journey. However, I had not participated in development.
+</p>
+<p>
+	I am interested in Ruby on Rails because I want to make my dreams a reality. I think of things not-stop. I’m a creative. 
+	Those gears are always turning. I have  so many ideas for websites, applications, communities, and programs! I tried several 
+	times to learn a programming language. I made an attempt into PHP more than once. I made several attempts at Python and also 
+	failed to grasp it - barely making it past “Hello World” before giving up.
+</p>
+<p>
+	And so I began to think that without a lot of money, I’d never be able to see any of my ideas come to life. An artistic guy
+	like me? Having almost no knowledge of math? Possessing no aptitude for learning how to program? I thought those ideas would
+	sit inside my head until I saw someone else implement them and profit both emotionally and monetarily.
+</p>
+<p>
+	As a beginner, it’s really hard to contribute something productive to the Ruby/Rails community. 
+	I make my best effort by submitting typos and misprints that I’ve found in learning resources. 
+	I thought starting a blog to document my journey and share my thoughts might be another excellent 
+	way to contribute in some way, as it could serve to motivate others in the future. I encourage all
+	fellow beginners to do that as well.
+</p>
+<p>
+	I have been tracking my hours spent on strictly Ruby and Rails related learning so that I can give a
+	hard amount of hours to anyone looking for this information. I’d like to be able to have a good estimate
+	of how many hours it took of learning before I felt confident, before I made something with X functionality 
+	on my own, and before I applied or got hired to different types of jobs. I also want to share my studying routine.
+
+</p>
+<p>
+	I am not good at math. Actually, I’m very bad at math. Although, I’m starting to think of that as a failure in learning and 
+	not in brainpower. The last U.S. grade that I completed in school was 7th, and I was in “LD” (learning disability) classes for 
+	most of those years. So, it’s safe to say that I really don’t know much about math. You have no reason to fear programming just 
+	because you’re bad at math. I’ll likely write about this more as I conquer the more advanced parts of programming and can speak 
+	more accurately about those specific struggles.
+</p>
+<p>
+	The hours logged in this blog are specific to Ruby on Rails. Hours spent learning Javascript, jQuery, HTML, and CSS are logged
+	but not included in the total hours count.
+</p>
+</body>
+</html>
