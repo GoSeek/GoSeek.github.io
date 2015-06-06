@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1,000 Hour Challenge: Week 2
+title: 1,000 Hour Challenge: Week 3
 ---
 ### 59.5/1,000 Total Hours Completed
 
