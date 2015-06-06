@@ -23,7 +23,7 @@ Daily hours logged: 4
 	- Continue ["Learn Ruby on Rails" by Daniel Kehoe](http://www.learn-rails.com "Learn Rails")
 		- Figured out how to configure Google Drive using OAUTH
 		- Figured out how to configure `CLIENT_ID` and `AUTH_SECRET` correctly using UNIX Env variables
-		- Supposedly this has been removed from the book with it's newest update, but it wasn't that difficult.
+		- Supposedly this has been updated in the book with it's newest update, but it wasn't that difficult to overcome.
 	
 - Ruby: 3 hour(s)
 	- Improvements to my game, Odessa, for Example 45 of ["Learn Ruby The Hard Way" by Zed Shaw](http://www.learnrubythehardway.org/book "LRTHW Book")
