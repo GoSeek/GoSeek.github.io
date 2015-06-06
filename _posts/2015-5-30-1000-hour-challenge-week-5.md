@@ -4,13 +4,25 @@ title: 1,000 Hour Challenge: Week 5
 ---
 ### 100/1,000 Total Hours Completed
 
+I finally hit 100 hours of dedicated Ruby and Rails studying. So far, it's taken me exactly five weeks. I'm currently on a 
+36 day study streak, with a record of 5 consecutive hours in one day as my best day overall.
+
+I still feel like I don't know a thing about Ruby. I'm having a very difficult time trying to make
+the code example from LRTHW Example 45, load a random scene when the game starts, instead of having to
+specify which scene should go first.
+
+Additionally, I ran into an odd SMTP error with my Rails app while following along with Learn Rails by Daniel Kehoe.
+I had to scrap the entire project and start over. Although, I've just learned that he's ditching the entire Spreadhseet integration
+chapter which really sucks, as that was the entire point of doing the tutorial.
+
+
 ## 30 MAY 2015
 Daily hours logged: 4
 
 - Rails: 1 hour(s)
 	- Continue ["Learn Ruby on Rails" by Daniel Kehoe](http://www.learn-rails.com "Learn Rails")
 		- Figured out how to configure Google Drive using OAUTH
-		- Figured out how to configure CLIENT_ID and AUTH_SECRET correctly using UNIX Env variables
+		- Figured out how to configure `CLIENT_ID` and `AUTH_SECRET` correctly using UNIX Env variables
 		- Supposedly this has been removed from the book with it's newest update, but it wasn't that difficult.
 	
 - Ruby: 3 hour(s)
@@ -47,7 +59,7 @@ Daily hours logged: 1
 	
 - Ruby: 1 hour(s)
 	- Game improvements for Example 45 of ["Learn Ruby The Hard Way" by Zed Shaw](http://www.learnrubythehardway.org/book "LRTHW Book")
-		- [ZetCode on SQLite3 Meta information]http://zetcode.com/db/sqliteruby/meta/( "SQLite3 Meta")
+		- [ZetCode on SQLite3 Meta information](http://zetcode.com/db/sqliteruby/meta/ "SQLite3 Meta")
 	
 Note: 
 
